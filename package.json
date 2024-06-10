@@ -1,0 +1,24 @@
+{
+  "name": "emicake",
+  "version": "1.0.0",
+  "description": "Pasteleria emicake",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samypame15/pasteleria-3.git"
+  },
+  "keywords": [
+    "sass",
+    "emicake",
+    "css"
+  ],
+  "author": "samypame15",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samypame15/pasteleria-3/issues"
+  },
+  "homepage": "https://github.com/samypame15/pasteleria-3#readme"
+}
